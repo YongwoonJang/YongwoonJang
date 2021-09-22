@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @YongwoonJang
-- 👀 I’m interested in "SEO"
-- 🌱 I’m currently learning "Project management skill", "React"
-- 💞️ I’m looking to collaborate on "Web service providing search engine"
+- 👀 I’m interested in "WebGL" and "Visualization", "Matrix"
+- 🌱 I’m currently learning "Project management skill", "React.js", "Javascript"
 - 📫 How to reach me by "royalfamily89@gmail.com"
-- To do : [Study](https://www.freecodecamp.org/learn/front-end-development-libraries/#redux)
