@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @YongwoonJang
-- 👀 I’m interested in "WebGL" and "Visualization", "Matrix"
-- 🌱 I’m currently learning "Project management skill", "React.js", "Javascript"
+- 👀 I’m interested in "Startup" and "My project : minor gyujanggak"
+- 🌱 I’m currently learning "Project management skill", "React.js", "Cloud automation"
 - 📫 How to reach me by "royalfamily89@gmail.com"
