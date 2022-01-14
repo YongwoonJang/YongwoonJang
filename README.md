@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @YongwoonJang
-- 👀 I’m interested in "Startup" and "My project : minor gyujanggak"
-- 🌱 I’m currently learning "Project management skill", "React.js", "Cloud automation"
+- 👀 I’m interested in my sub project. "minor gyujanggak"
+- 🌱 I’m currently learning "Javascript"
 - 📫 How to reach me by "royalfamily89@gmail.com"
