@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @YongwoonJang
-- 👀 I’m interested in my sub project. "minor gyujanggak"
-- 🌱 I’m currently learning "Javascript"
-- 📫 How to reach me by "royalfamily89@gmail.com"
+- 👀 I’m interested in my sub project. "minor gyujanggak", and You can visit my gyujanggak website [Gyujanggak](https://gyujanggak.vercel.app)
+- 🌱 I’m currently learning "Javascript", via [FreeCodeCamp)(https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript)
+- 📫 How to reach me by "royalfamily89@gmail.com" and [@j_minor_chord](https://www.instagram.com/j_major_scale/)
